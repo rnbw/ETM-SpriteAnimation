@@ -1,20 +1,19 @@
 fileFormatVersion: 2
-guid: 9ccbe0f95dd4ee542bacc620c26298e4
+guid: 8b0547f474bf58645b4bbeee9d73d68f
 TextureImporter:
   fileIDToRecycleName:
-    21300000: MainCharSpritesheet_0
-    21300002: MainCharSpritesheet_1
-    21300004: MainCharSpritesheet_2
-    21300006: MainCharSpritesheet_3
-    21300008: MainCharSpritesheet_4
-    21300010: MainCharSpritesheet_5
-    21300012: MainCharSpritesheet_6
-    21300014: MainCharSpritesheet_7
-    21300016: MainCharSpritesheet_8
-    21300018: MainCharSpritesheet_9
-    21300020: MainCharSpritesheet_10
-    21300022: MainCharSpritesheet_11
-    21300024: MainCharSpritesheet_12
+    21300000: CyberGob clone_0
+    21300002: CyberGob clone_1
+    21300004: CyberGob clone_2
+    21300006: CyberGob clone_3
+    21300008: CyberGob clone_4
+    21300010: CyberGob clone_5
+    21300012: CyberGob clone_6
+    21300014: CyberGob clone_7
+    21300016: CyberGob clone_8
+    21300018: CyberGob clone_9
+    21300020: CyberGob clone_10
+    21300022: CyberGob clone_11
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -58,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,261 +96,241 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MainCharSpritesheet_0
+      name: CyberGob clone_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 288
+        x: 12
+        y: 205
         width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8e125d8500c9304f9c42d9864a4bddf
+      spriteID: 8c8dead0d2a29204eb258cd6f11d0eeb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_1
+      name: CyberGob clone_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 288
+        x: 84
+        y: 205
         width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6ba06cb9f3d1a249b6014d3872f5d40
+      spriteID: 2a03f2ec4030fec44a68e701bd80ebdb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_2
+      name: CyberGob clone_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 147
+        y: 205
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92994e7a2d0b59d4b9275a3eb445f7f3
+      spriteID: c89459737a7a4d449a1dd0848e4d5d11
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_3
+      name: CyberGob clone_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 12
+        y: 138
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f57d58589ad16644af6a69a9055f682
+      spriteID: b22728ae32de02a4cb8dfc17da6a85d5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_4
+      name: CyberGob clone_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 84
+        y: 138
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16858567a725d644c9b3b5b2d61f6f6e
+      spriteID: a993b4743ad46954e9cc7cdd8440d918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_5
+      name: CyberGob clone_5
       rect:
         serializedVersion: 2
-        x: 96
-        y: 256
+        x: 147
+        y: 138
         width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 616767bf7922f1040b93c3ef59cd0f95
+      spriteID: 34896f9eacce9f949844b567b5026034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_6
+      name: CyberGob clone_6
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
+        x: 12
+        y: 72
         width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5d73a46692859d4ca9bf2a90a6ac276
+      spriteID: bbe359c3947942a4a9361ad44767c237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_7
+      name: CyberGob clone_7
       rect:
         serializedVersion: 2
-        x: 160
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 84
+        y: 72
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 571a92c3077723e429a6404461d934db
+      spriteID: 1361f572bb88d0b4ca7bd88e1b90df27
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_8
+      name: CyberGob clone_8
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 147
+        y: 72
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3393dc38872ca3147b9a148a72b729bb
+      spriteID: e9fa8298eeea8a44297cde49820a3f0d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_9
+      name: CyberGob clone_9
       rect:
         serializedVersion: 2
-        x: 224
-        y: 256
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 12
+        y: 5
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e001b931577e97440b7ec6831e9fbb4e
+      spriteID: bc2315f2d68d3cd4fab9bc16fc22ce04
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_10
+      name: CyberGob clone_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 84
+        y: 5
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f98790ac73a784b42ad17d21660d95ee
+      spriteID: d19efeaaef5895042a6cab0937851ae9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MainCharSpritesheet_11
+      name: CyberGob clone_11
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
+        x: 147
+        y: 5
         width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ccd6dcdafe02e14a8cdb65eea5df8a7
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MainCharSpritesheet_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcee7410d7ce08141931f058a710f9cb
+      spriteID: 8de9326dc45ee1f46857008f6c5b76f6
       vertices: []
       indices: 
       edges: []
@@ -359,7 +338,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 52c0e4b08f4d4bc44a719327e5a3bcde
+    spriteID: 14bc8ed59c9767c43a4a897e24dd8ed7
     vertices: []
     indices: 
     edges: []

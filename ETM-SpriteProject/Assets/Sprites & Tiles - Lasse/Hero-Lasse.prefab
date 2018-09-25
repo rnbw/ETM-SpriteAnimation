@@ -61,11 +61,11 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0
-  m_GravityScale: 6.18
+  m_GravityScale: 9.87
   m_Material: {fileID: 6200000, guid: 2e8c6acc0c71bb745921ccf91214b4e5, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!58 &58597852106938382
 CircleCollider2D:
@@ -79,9 +79,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.34}
+  m_Offset: {x: 0.03, y: 0.01}
   serializedVersion: 2
-  m_Radius: 0.38
+  m_Radius: 0.16
 --- !u!95 &95576444819714896
 Animator:
   serializedVersion: 3
@@ -106,9 +106,9 @@ Animation:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1573486266744968}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: a62fe492bfd4a7f4a8747e8b03fe49b3, type: 2}
+  m_Animation: {fileID: 0}
   m_Animations: []
   m_WrapMode: 0
   m_PlayAutomatically: 1
@@ -195,7 +195,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 0.55
         - useVariable: 1
           name: 
           tooltip: 
@@ -258,7 +258,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 0, y: -0.5}
+          value: {x: 0, y: 0.56}
         - useVariable: 0
           name: 
           tooltip: 
@@ -1235,7 +1235,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 
+          value: Speed
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -1271,8 +1271,8 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
-        - useVariable: 0
-          name: 
+        - useVariable: 1
+          name: SpeedAnim
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1291,7 +1291,7 @@ MonoBehaviour:
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams: []
-        byteData: 0000000000000000000000
+        byteData: 0002000000000000000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
@@ -1916,12 +1916,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9ccbe0f95dd4ee542bacc620c26298e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6811180f59149f6429c088594d9efd50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.64, y: 0.64}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
